@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/a4fqnev1hxhgvplv?svg=true)](https://ci.appveyor.com/project/ivangol739/react-5-1)
 
 Карточки
 ===
